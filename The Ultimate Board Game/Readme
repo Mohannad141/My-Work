@@ -1,0 +1,20 @@
+# Board Games Collection 🎲  
+
+## Overview  
+This project is a **collection of classic board games** implemented in C++, featuring:  
+- Tic-Tac-Toe (5x5, Word-based, Numerical)  
+- Connect 4  
+- Pyramids Game  
+- Ultimate Tic-Tac-Toe  
+- AI & Random Computer Opponents  
+
+## Features  
+- **Multiple games in one** menu-based system  
+- **Human vs. Human & AI modes**  
+- **Minimax AI for strategic gameplay**  
+
+## Setup & Compilation  
+### **Clone the repository**  
+```bash
+git clone 
+cd BoardGames
