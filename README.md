@@ -11,7 +11,7 @@ This repository contains a collection of projects that highlight my **programmin
 
 ### **1. Board Games Collection**  
 - **Description:** A collection of classic board games like Tic-Tac-Toe (various versions), Connect 4, and Pyramids Game. Features **AI opponents** using Minimax Algorithm.  
-- **[Project Folder](./BoardGames/)**  
+- **[My-Work](./The Ultimate Board Game/)**  
 - **Languages:** C++
 
 - **Features:**  
