@@ -11,7 +11,6 @@ This repository contains a collection of projects that highlight my **programmin
 
 ### **1. Board Games Collection**  
 - **Description:** A collection of classic board games like Tic-Tac-Toe (various versions), Connect 4, and Pyramids Game. Features **AI opponents** using Minimax Algorithm.  
-- **[My-Work](./TheUltimateBoardGame/)**  
 - **Languages:** C++
 
 - **Features:**  
@@ -23,7 +22,6 @@ This repository contains a collection of projects that highlight my **programmin
 
 ### **2. Ciphering Program**  
 - **Description:** A security-based project implementing three encryption algorithms: **Affine Cipher, Baconian Cipher, and XOR Cipher**.  
-- **[Project Folder](./CipheringProgram/)**  
 - **Languages:** C++
    
 - **Features:**  
@@ -35,7 +33,6 @@ This repository contains a collection of projects that highlight my **programmin
 
 ### **3. Image Processing Program**  
 - **Description:** A **C++ program** with **15 different image filters**, including grayscale conversion, merging, blurring, cropping, and special effects.  
-- **[Project Folder](./ImageProcessing/)**  
 - **Languages:** C++  
 
   **Features:**  
@@ -47,7 +44,6 @@ This repository contains a collection of projects that highlight my **programmin
 
 ### **4. Vole Machine Simulation**  
 - **Description:** A **basic computing machine simulator** that reads and executes **custom programs** from a text file.  
-- **[Project Folder](./VoleMachine/)**  
 - **Languages:** C++  
 
    **Features:**  
