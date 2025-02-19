@@ -59,15 +59,15 @@ This repository contains a collection of projects that highlight my **programmin
 git clone https://github.com/your-github/MohanadGouda-Projects.git](https://github.com/Mohannad141
 cd Mohanad141/My-Work
 ```
-2️⃣ Navigate to a project folder and compile the program.
-3️⃣ Run the executable and follow the instructions in the corresponding README.md file.
+**2️⃣ Navigate to a project folder and compile the program.**
+**3️⃣ Run the executable and follow the instructions in the corresponding README.md file.**
 
 
 ---
 
-📩 Contact Me
+## 📩 Contact Me
 If you're interested in my work or have any questions, feel free to reach out!
 
-📧 Email: mohanad.gouda@gmx.de
-💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-🔗 GitHub: Mohannad141
+**📧 Email: mohanad.gouda@gmx.de**
+**💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile**
+**🔗 GitHub: Mohannad141**
