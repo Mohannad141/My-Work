@@ -37,4 +37,5 @@ Welcome to Ciphering Program
 Enter your choice:  
 
 2️⃣ Enter your text and the program will encrypt/decrypt it.
+
 3️⃣ View the transformed message.
