@@ -62,6 +62,8 @@ cd Mohanad141/My-Work
 2️⃣ Navigate to a project folder and compile the program.
 3️⃣ Run the executable and follow the instructions in the corresponding README.md file.
 
+---
+
 📩 Contact Me
 If you're interested in my work or have any questions, feel free to reach out!
 
