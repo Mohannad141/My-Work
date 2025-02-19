@@ -71,6 +71,6 @@ If you're interested in my work or have any questions, feel free to reach out!
 
 **📧 Email: mohanad.gouda@gmx.de**
 
-**💼 LinkedIn: www.linkedin.com/in/mohanad-gouda-a56073158
+**💼 LinkedIn: www.linkedin.com/in/mohanad-gouda-a56073158**
 
 **🔗 GitHub: [Mohannad141](https://github.com/Mohannad141/My-Work/)**
