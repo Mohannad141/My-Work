@@ -13,7 +13,7 @@ This repository contains a collection of projects that highlight my **programmin
 - **Description:** A collection of classic board games like Tic-Tac-Toe (various versions), Connect 4, and Pyramids Game. Features **AI opponents** using Minimax Algorithm.  
 - **Languages:** C++
 
-- **Features:**  
+  **Features:**  
 - Human vs. Human & AI gameplay  
 - Random & Smart AI opponents  
 - Different variations of Tic-Tac-Toe  
@@ -24,7 +24,7 @@ This repository contains a collection of projects that highlight my **programmin
 - **Description:** A security-based project implementing three encryption algorithms: **Affine Cipher, Baconian Cipher, and XOR Cipher**.  
 - **Languages:** C++
    
-- **Features:**  
+  **Features:**  
 - Encrypt & Decrypt text using different methods  
 - XOR encryption with a customizable secret key  
 - User-friendly menu system  
@@ -59,8 +59,9 @@ This repository contains a collection of projects that highlight my **programmin
 git clone https://github.com/your-github/MohanadGouda-Projects.git](https://github.com/Mohannad141
 cd Mohanad141/My-Work
 ```
-**2️⃣ Navigate to a project folder and compile the program.**
-**3️⃣ Run the executable and follow the instructions in the corresponding README.md file.**
+2️⃣ Navigate to a project folder and compile the program.
+
+3️⃣ Run the executable and follow the instructions in the corresponding README.md file.
 
 
 ---
@@ -69,5 +70,7 @@ cd Mohanad141/My-Work
 If you're interested in my work or have any questions, feel free to reach out!
 
 **📧 Email: mohanad.gouda@gmx.de**
+
 **💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile**
+
 **🔗 GitHub: Mohannad141**
